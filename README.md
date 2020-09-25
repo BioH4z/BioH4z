@@ -1,9 +1,4 @@
-## Hello there 👋, I'm Domenico Palumbo a PhD in Molecular Medicine and Medical Biotechnologies
-### - 💻 I’m currently working at University of Salerno (ITALY) as bioinformatician
-
-
-
-
+## Hello there 👋, I'm Domenico Palumbo - PhD in Molecular Medicine and Medical Biotechnologies
 
 
 ### You can reach me here:
@@ -11,4 +6,4 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="50">](https://www.linkedin.com/in/domenico-palumbo-a39045b8/)
 
-### - Or by mail: domenico.palumbo89@gmail.com 📫
+### Or by mail: domenico.palumbo@unina.com 📫
