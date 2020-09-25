@@ -4,7 +4,7 @@
 PhD in Molecular Medicine and Medical Biotechnology
 
 ## - 💻 I’m currently working at University of Salerno (ITALY)
-![alt text](https://www.unisa.it/rescue/img/logo_standard.png)
+![alt text](https://seeklogo.com/images/U/universita-degli-studi-di-salerno-unisa-logo-CB7C462BBB-seeklogo.com.png)
 
 
 
