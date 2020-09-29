@@ -1,4 +1,5 @@
-## Hello there 👋, I'm Domenico Palumbo - PhD in Molecular Medicine and Medical Biotechnologies
+## Hello there 👋,
+## I'm Domenico Palumbo - PhD in Molecular Medicine and Medical Biotechnologies
 
 
 ### You can reach me here:
