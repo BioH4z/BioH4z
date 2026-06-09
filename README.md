@@ -7,4 +7,4 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/330px-LinkedIn_Logo.svg.png" width="80">](https://www.linkedin.com/in/domenico-palumbo-ottantanove)
 
-### Or by mail: domenico.palumbo@unina.com 📫
+### Or by mail: domenico.palumbo@unina.it / dopalumbo@unisa.it 📫
